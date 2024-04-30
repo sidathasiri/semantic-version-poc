@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "semantic-release"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "semantic-release": "^23.0.8"
+    "semantic-release": "21.0.6"
   }
 }
