@@ -1,2 +1,2 @@
 initial feature
-second new major feature
+second stable major feature
